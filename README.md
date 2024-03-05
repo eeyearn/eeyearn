@@ -30,7 +30,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/eeyearn/eeyearn/output/snake.svg" alt="Snake animation" />
-
-###
