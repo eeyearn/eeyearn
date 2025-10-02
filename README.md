@@ -2,6 +2,8 @@
 
 <a href="https://www.linkedin.com/in/iain-roderick-tay-26b24a19b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://iainrodericktay-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://devpost.com/iainrtay" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
+<img src="https://komarev.com/ghpvc/?username=eeyearn&style=for-the-badge&color=brightgreen" alt="Profile views" align="right"/>
 
 I'm a final-year Data Science and Artificial Intelligence student at Nanyang Technological University (NTU), an **Incoming AI Engineer Intern at Aumovio**, and the current **AI & Data Science Ambassador for EY**.
 
@@ -37,6 +39,11 @@ I'm passionate about building intelligent systems that solve real-world problems
 -   🧠 **AI Engineering (Trustplus AI):** Engineered a high-accuracy table detection system using **YOLOv8 (99.3%)** and deployed ensemble **BERT models (98.8%)** for automated financial statement categorization on scalable AWS endpoints.
 -   ⚙️ **Systems Development (DSTA):** Developed and optimized real-time telemetry data extraction and processing pipelines using the **Java Spring framework** to enhance battlefield visualization for drone systems.
 -   📊 **Data Analytics (Seagate Technology):** Deployed **Grafana and Prometheus** to build a system health dashboard from complex machine log files, increasing operational visibility and reducing downtime.
+
+### 🎓 Current Research
+
+-   ⚽ **Final Year Project: AI Football Predictor**
+    -   Currently developing AI models for my final year project at NTU to predict soccer match outcomes by applying machine learning to historical match data.
 
 ### 📈 GitHub Activity
 
