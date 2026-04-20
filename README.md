@@ -41,8 +41,6 @@ A web application that visualizes crowd dynamics and forecasts for Singapore par
 
 ### 🚀 Professional Experience
 
-### 🚀 Professional Experience
-
 -  🚘 **Computer Vision (Aumovio):** Engineered real-time driver gaze-tracking systems for autonomous vehicle safety using **MediaPipe** and **Paddle**, and built scalable Linux-based data ingestion pipelines to optimize deep neural network training.
 -  🧠 **AI Engineering (Trustplus AI):** Engineered a high-accuracy table detection system using **YOLOv8 (99.3%)** and deployed ensemble **BERT models (98.8%)** for automated financial statement categorization on scalable AWS endpoints.
 -  ⚙️ **Systems Development (DSTA):** Developed and optimized real-time telemetry data extraction and processing pipelines using the **Java Spring framework** to enhance battlefield visualization for drone systems.
