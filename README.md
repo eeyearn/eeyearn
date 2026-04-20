@@ -18,6 +18,11 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ### 🏆 Competitions & Hackathons
 
+A web application that visualizes crowd dynamics and forecasts for Singapore parks with interactive chemical incident simulations.
+
+-   🏆 **HTX HacX! 2025 (Finalist)**
+    -   A web application that visualizes crowd dynamics and forecasts for Singapore parks with interactive chemical incident simulations.
+
 -   🏆 **EY Data Science Challenge 2025 (4th in Singapore, 84th Globally)**
     -   In a team of two, tackled a complex, real-world data problem using machine learning, placing among the top teams in Singapore and globally.
 
@@ -36,14 +41,17 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ### 🚀 Professional Experience
 
--   🧠 **AI Engineering (Trustplus AI):** Engineered a high-accuracy table detection system using **YOLOv8 (99.3%)** and deployed ensemble **BERT models (98.8%)** for automated financial statement categorization on scalable AWS endpoints.
--   ⚙️ **Systems Development (DSTA):** Developed and optimized real-time telemetry data extraction and processing pipelines using the **Java Spring framework** to enhance battlefield visualization for drone systems.
--   📊 **Data Analytics (Seagate Technology):** Deployed **Grafana and Prometheus** to build a system health dashboard from complex machine log files, increasing operational visibility and reducing downtime.
+### 🚀 Professional Experience
+
+-  🚘 **Computer Vision (Aumovio):** Engineered real-time driver gaze-tracking systems for autonomous vehicle safety using **MediaPipe** and **Paddle**, and built scalable Linux-based data ingestion pipelines to optimize deep neural network training.
+-  🧠 **AI Engineering (Trustplus AI):** Engineered a high-accuracy table detection system using **YOLOv8 (99.3%)** and deployed ensemble **BERT models (98.8%)** for automated financial statement categorization on scalable AWS endpoints.
+-  ⚙️ **Systems Development (DSTA):** Developed and optimized real-time telemetry data extraction and processing pipelines using the **Java Spring framework** to enhance battlefield visualization for drone systems.
+-  📊 **Data Analytics (Seagate Technology):** Deployed **Grafana and Prometheus** to build a system health dashboard from complex machine log files, increasing operational visibility and reducing downtime.
 
 ### 🎓 Current Research
 
 -   ⚽ **Final Year Project: AI Football Predictor**
-    -   Currently developing AI models for my final year project at NTU to predict soccer match outcomes by applying machine learning to historical match data.
+    -    Developed a logisitic regression model for my final year project at NTU to predict soccer match outcomes by applying machine learning to historical match data.
 
 ### 📈 GitHub Activity
 
