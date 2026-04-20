@@ -5,7 +5,7 @@
 <a href="https://devpost.com/iainrtay" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"></a>
 <img src="https://komarev.com/ghpvc/?username=eeyearn&style=for-the-badge&color=brightgreen" alt="Profile views" align="right"/>
 
-I'm a final-year Data Science and Artificial Intelligence student at Nanyang Technological University (NTU), an **Incoming AI Engineer Intern at Aumovio**, and the current **AI & Data Science Ambassador for EY**.
+I'm a final-year Data Science and Artificial Intelligence student at Nanyang Technological University (NTU)
 
 I'm passionate about building intelligent systems that solve real-world problems and am actively seeking a full-time career in AI/ML and Data Science. I love everything about AI, especially as it evolves from a support tool into a key decision-maker in modern businesses. My goal is to be at the forefront of that transformation.
 
